@@ -37,6 +37,16 @@ button:hover {
     background-color: #3486eb;
 }
 
+.border {
+    border: #3486eb solid 1px;
+    margin: 5px;
+    padding: 2px;
+}
+
+.background {
+    background-color: lightblue;
+}
+
 .post-list {
     margin: 0;
     padding: 0;
