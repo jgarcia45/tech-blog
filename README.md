@@ -75,7 +75,25 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ```
 
 ## Screenshot
-![]()
+|![Homepage](./public/images/homepage.png)|
+|:--:|
+|<b>Homepage</b>|
+
+|![LogIn](./public/images/login.png)|
+|:--:|
+|<b>Log In</b>|
+
+|![SignUp](./public/images/signup.png)|
+|:--:|
+|<b>Sign Up</b>|
+
+|![Dashboard](./public/images/dashboard.png)|
+|:--:|
+|<b>Dashboard</b>|
+
+|![Post](./public/images/post.png)|
+|:--:|
+|<b>Post</b>|
 
 ## Link
 A link to the [code](https://github.com/jgarcia45/tech-blog):
